@@ -5,4 +5,5 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 
 ## Documentação 
+resumos
 
